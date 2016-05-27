@@ -18,7 +18,9 @@
     "#different#"
   ],
   "different": [
-    "#prefaces#: Another huge pack of lies from Peter Molyneux."
+    "#prefaces#: Yet another huge pack of lies from Peter Molyneux.",
+    "#prefaces#: Everything is still as awkward and embarrassing as it always is.",
+    "#prefaces#: No remake will ever fill the void in your heart left by #games#."
   ],
   "events": [
     "E3",
@@ -26,16 +28,13 @@
   ],
   "prefaces": [
     "BREAKING",
-    "EXPOSED",
     "FIRST LOOK",
     "JUST ANNOUNCED",
-    "JUST IN",
     "LEAKED",
     "RUMOUR",
-    "SOON",
     "THIS JUST IN",
     "TRAILER",
-    "TRAILER REVEALED",
+    "TRAILER REVEAL",
     "UNVEILED"
   ],
   "publishers": [
@@ -77,6 +76,7 @@
     "Cho Aniki",
     "Chrono Trigger",
     "Clay Fighter",
+    "Cobra Club",
     "Commander Keen",
     "Cool Spot",
     "Crash Bandicoot",
@@ -91,8 +91,6 @@
     "Earthworm Jim",
     "Einhander",
     "Eternal Darkness",
-    "Final Fantasy",
-    "Final Fantasy 7",
     "Gex",
     "Harvest Moon",
     "Hugo's House of Horrors",
@@ -129,14 +127,14 @@
     "Uniracers",
     "Vib Ribbon",
     "Willy Beamish",
-    "Zelda",
+    "Legend of Zelda",
     "Zombies Ate My Neighbours"
   ],
   "gametype": [
     "yet another MOBA",
     "a 4-player couch co-op",
-    "an MMORPG",
-    "an MMO FPS",
+    "an already-dead MMO",
+    "another MMO FPS hybrid",
     "an Angry Birds clone",
     "an FPS gore-fest",
     "a clone of an unreleased @vlambeer game",
@@ -154,16 +152,14 @@
     "a dating sim",
     "a stealth survival game",
     "an erotic dating sim",
+    "an erotic stealth survival game",
     "a rhythm game",
     "steampunk as all get-out",
-    "pretty much just Cookie Clicker",
-    "a roguelike",
+    "basically just Cookie Clicker",
+    "a roguelike-like",
     "another Doom clone",
     "an old-school FMV game",
-    "an offline MMO",
-    "a single player co-op",
     "a farming sim",
-    "an Ouya exclusive",
     "a bullet hell game",
     "a drinking game",
     "a crying game",
@@ -173,9 +169,6 @@
     "a classic text adventure",
     "a Tiger handheld",
     "a walking simulator",
-    "just like Surgeon Simulator",
-    "@BenKuchera's dream come true",
-    "everything @samred ever wanted",
     "an all-ages visual novel",
     "a 2D space shooter",
     "a kart racer",
@@ -187,6 +180,11 @@
     "a pen & paper RPG",
     "a multi-layered board game",
     "a puzzle platformer",
-    "an NES de-make"
+    "an NES de-make",
+    "A second-person shooter",
+    "a resource management sim",
+    "MORE CAPITALIST GARBAGE",
+    "A Happy Meal toy",
+    "A simulator simulator"
   ]
 }
