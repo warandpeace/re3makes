@@ -1,0 +1,297 @@
+{
+"-" : "--------------------------------------------------------------------------------------------------------------------------------------------------",
+"-" : "-----------Cookie Cat Grammars---------------------------------------------------------------------------------------------------------",
+"-" : "--------------------------------------------------------------------------------------------------------------------------------------------------",
+"cookieCatLyrics" :["[#setLyric1#][#setLyric2#][#setLyric3#]#ooooooh#<br/>#cookieVerse1#<br/>#cookieVerse2#<br/>#cookieVerse3#<br/>#cookieVerse4#<br/>Cookie Cat! #cookieVerse5#<br/>Cookie Cat! #cookieVerse6# <br/>Cookie Cat! #cookieCatTMI#<br/>#cookieCaaat#" ],
+
+"cookieCat_setColors": [
+"[cookieCat_tagline: #PearlNo#][bgPic:cookiecatBg1.jpg][t-c1:70][t-c2:70][t-c3:113]",
+"[cookieCat_tagline: #AmethystNo#][bgPic:cookiecatBg3.jpg][t-c1:223][t-c2:225][t-c3:255]",
+"[cookieCat_tagline: #PeridotNo#][bgPic:cookiecatBg4.jpg][t-c1:90][t-c2:60][t-c3:20]",
+"[cookieCat_tagline: Saw some new advertising on the conference table...][bgPic:cookiecatBg2.jpg][t-c1:70][t-c2:70][t-c3:113]"
+],
+
+"cookieCat_data" : "[#setTitleChar#][#setChar1#][#setChar2#][#cookieCat_setColors#]",
+
+"PearlNo" : ["I don't think that's how it goes Pearl", "Pearl just read it from the karaoke screen don't improv.", "PEARL."],
+"AmethystNo" : ["Amethyst just let Steven sing it", "AMETHYST.", "Listen Amethyst you've got heart but Steven knows the lyrics", "Amethyst no why"],
+"PeridotNo" : ["Peridot that's nice but maybe let Steven sing","Peridot those aren't even the wor- actually just keep going", "Not bad Peridot, but the lyrics are a little...off.", "Yeah, Peridot! That's it! ...basically?"],
+
+"ooooooh" : ["Oooooh!", "Woaaa!", "Yaaaaaa!"],
+"cookieCaaat" : ["Cookie Caaaaat!", "C-c-c-cookie Caaaaat!", "Coooooookie Cat!", "Co-co-cookie Cat!"],
+
+"cookieCatTMI" : ["He left his family behind!", "He destroyed a whole planet!", "He often longs for death!", "He buried all his feelings!", "He probably has PTSD!", "He won't speak of his past!", "He sometimes cries himself to sleep!", "Has no friends left alive!", "His soulless eyes compel you!", "He can never go home!", "All his friends are dead!", "He left his friends to die!", "He was exiled for galactic treason!", "He's seen things you people wouldn't believe!"],
+
+"setLyric1" : "[cookieVerse1: He's #frozenTreat.a# #allNewTaste#][cookieVerse2: 'cause he #cameToThisPlanet# #fromOuterSpace#!]",
+"setLyric2" : "[cookieVerse3: #refugeeOfWar.a.capitalize#!][cookieVerse4: #nowAtGroceryStore#!]",
+"setLyric3" : ["#setLyric3a#", "#setLyric3b#"],
+
+"setLyric3a" : "[cookieVerse5: #petForYourTummy#!][cookieVerse6: #petForYourTummy#!]",
+"setLyric3b" : "[cookieVerse5: #snackJustForYou#!][cookieVerse6: #snackJustForYou#!]",
+
+"allNewTaste" : ["with #allNew.a# taste!", "that's now soy-based!", "that's cookie-faced!", "that should be eaten post-haste!"],
+"nowSoy" : ["now soy", "gluten", "now corn", "sucrose", "dextrose"],
+"frozenTreat" : ["ice cream sammie", "sweet dessert", "frozen treat", "chill duder", "milk-based sweet"],
+"allNew" : ["all new", "frikken sweet", "yummy yummy", "delicioso", "mind-blowing", "addictive"],
+"cameToThisPlanet" : ["came to this planet", "arrived on the Earth", "landed his spaceship"],
+"fromOuterSpace" : ["from outer space", "to be shoved in your face", "to become dessert-based", "...so eat him just in case"],
+"refugeeOfWar" : ["refugee of an interstellar war", "cat-based killer from the galaxy core", "feline astronaut...with twenty kids or more", "kitty-cat pilot who's now shockingly poor", "moody kitty cat who'll give you what for"],
+"nowAtGroceryStore" : ["But now he's at your local grocery store", "But now you can eat him and let out a mighty roar", "Tasty but despairing in your grocery store"],
+"petForYourTummy" : ["He's a pet for your tummy", "He's prolly not a bunny", "He does not contain eggs or honey", "He kinda tastes funny", "He doesn't cost a buncha money", "His name is kinda punny", "When he's warm he gets runny", "He melts when it's sunny", "He'll make your belly feel funny"],
+"snackJustForYou" : ["He's a snack just for you", "He's just a snack for you", "Eat his ears first: chew!", "Take a bite of him and chew", "He doesn't have a clue", "He knows what you'll do", "Has a taste that's new", "Eat too many? You'll poo", "Buy a bunch for your crew", "You can use him to woo", "He'll make you need the loo", "The price is more...what's new?", "Does not contain Blue number 2", "Don't buy one: buy two", "Tastes better than goo", "Still in stores: good! Phew!"],
+
+"-" : "--------------------------------------------------------------------------------------------------------------------------------------------------",
+"-" : "-----------TitleCard Grammars---------------------------------------------------------------------------------------------------------",
+"-" : "--------------------------------------------------------------------------------------------------------------------------------------------------",
+"titleCard_setColors": [
+"[bgPic:bg1.jpg][t-c1:203][t-c2:158][t-c3:204][d-c1:204][d-c2:65][d-c3:79]",
+"[bgPic:bg2.jpg][t-c1:40][t-c2:82][t-c3:101][d-c1:40][d-c2:82][d-c3:101]",
+"[bgPic:bg3.jpg][t-c1:60][t-c2:118][t-c3:144][d-c1:40][d-c2:82][d-c3:101]",
+"[bgPic:bg4.jpg][t-c1:40][t-c2:87][t-c3:144][d-c1:23][d-c2:106][d-c3:142]",
+"[bgPic:bg5.jpg][t-c1:148][t-c2:44][t-c3:130][d-c1:128][d-c2:20][d-c3:109]"
+],
+
+"titleCard_setCardType" : [
+"[myShowName1: #titleCard_showName1#][myShowName2: #titleCard_showName2#][myShowDesc:#titleCard_showDesc#]",
+"[myShowName1: #titleCard_showName1#][myShowName2: #titleCard_showName2#][myShowDesc:#titleCard_showDesc#]",
+"[myShowName1: #titleCard_showName1#][myShowName2: #titleCard_showName2#][myShowDesc:#titleCard_showDesc#]",
+"[myShowName1: #titleCard_showName1#][myShowName2: #titleCard_showName2#][myShowDesc:#titleCard_showDesc#]",
+"[myShowName1: #titleCard_showName1#][myShowName2: #titleCard_showName2#][myShowDesc:#titleCard_showDesc#]",
+"[myShowName1: #titleCard_showName1#][myShowName2: #titleCard_showName2#][myShowDesc:#titleCard_showDesc#]",
+"[myShowName1: #titleCard_showName1#][myShowName2: #titleCard_showName2#][myShowDesc:#titleCard_showDesc#]",
+"[myShowName1: #titleCard_showName1#][myShowName2: #titleCard_showName2#][myShowDesc:#titleCard_showDesc#]",
+
+"[myShowName1:#titleword1# to][myShowName2:the #titleword2#][myShowDesc:#titleCard_swordDesc#]"
+],
+
+"titleCard_data" : "[#setTitleChar#][#setChar1#][#setChar2#][#titleCard_setColors#][#swordShowTitle#][#titleCard_setCardType#]",
+
+"-" : "--------------------------------------------------------------------------------------------------------------------------------------------------",
+
+"quality" : ["serious", "giant", "coach", "secret", "future", "winter", "political", "gentle", "curious", "clever", "generous", "faithful", "anxious"],
+
+"doesThing" : ["gets injured", "falls in love", "gets in a fight", "loses #t1their# #item#", "turns #t1their# #bodyParts# into #animal.s#", "intercepts a transmission to Homeworld", "throws a wild party"],
+"domesticEvent" : ["folding laundry", "cleaning the kitchen", "organizing board games", "cleaning out the fridge", "cleaning the bathroom", "getting groceries", "watching surfers"],
+"fusionSyn":["giant woman", "gem-beast", "gem-giant", "gembomination", "gem creature"],
+"fusionDesc" : ["four-armed", "six-armed", "light-bending", "five-eyed", "four-legged", "terrifyingly powerful", "towering", "rampaging", "goddess-like", "ominously glowing", "eldritchly charismatic"],
+"celebrityName" : ["Aimee Mann", "Nicki Minaj", "Taylor Swift", "Beyoncé", "Oprah Winfrey", "Katy Perry", "Janelle Monáe", "Kim Kardashian", "Jennifer Lopez", "Halle Berry", "Rihanna"],
+"bandType" : ["ska", "rock", "punk", "metal"],
+
+"badTogetherAction" : ["keep on quarreling", "lose faith in themselves", "get into a dance-off", "cause a power outage"],
+"goodTogetherAction": ["fall in love", "start a cannonball contest", "build a giant robot", "build a spaceship", "run for mayor", "get into a dance-off", "discover the internet", "form a #bandType# band", "make breakfast", "discover a mysterious artifact", "marathon Camp Pining Hearts", "marathon Li'l Butler", "marathon Crying Breakfast Friends", "start flirting", "star in a talent show", "have a tickle fight", "become Beach Summer Buds", "awkwardly make out", "adopt an orphaned #animal#", "get into an arm-wrestling contest", "form a 'Secret Team'", "ride away on Lion", "cosplay The Spirit Morph Saga", "find a secret Warp Pad", "go to Beach Citywalk Fries to get 'The Bits'", "grab some pizza"],
+"togetherAction" : [ "#goodTogetherAction#","#badTogetherAction#"],
+
+"terriblePastRevelation" : ["#c1they# knew about the Cluster all along.", "something terrible about #c1their# past.", "#c1they# has actually been #c2name# in disguise all along."],
+
+"badEvent" : ["is injured and has to retreat into #c1their# gem to heal.", "finally admits #terriblePastRevelation#", "shouts something at #t1name# #t1they# can't forgive.", "runs away shouting #c1they#'ll never come back.","is trapped beneath a giant #item#.", "bursts into tears."],
+
+"struggle" : ["#epicStruggle#", "#humanStruggle#"],
+"epicStruggle" : ["fight an army of Watermelon Stevens", "escape a Roaming Eye", "capture an escaped corrupted gem", "escape a killer gem-construct", "stop a giant corrupted gem", "destroy a Gem comm tower", "solve the Riddle of the #animal.capitalize#", "subdue an escaped gem shard", "prevent the disintegration of the Moon Temple"],
+"humanStruggle" : ["file taxes", "pay off student loans", "buy an entire case of Cookie Cats", "clean the house" ],
+
+"epicEffect" : ["a sonorous gong sounds across the sky", "a mysterious flash of light panics local #animal.s#", "a voice sounds from the depths of the ocean", "the sand flashes to glass", "the clouds boil above", "the sun goes dim red", "a wailing wind rises"],
+
+"suspiciousBackstory" : ["an undercover Homeworld agent", "a scientist sent by the government", "making fun of #t1their# unique style", "laughing at #t1their# cool dance moves", "plotting to be better at #ability# than #t1them#"],
+
+"historicalEvent" : ["the founding of Beach City", "the Gem War", "the creation of the Kindergarten", "the Rebellion", "when Greg and Rose first met", "when the Gems met #historicalFigure# (who was actually quite #badQualAdj#)" ],
+"historicalFigure" : ["Napoleon", "Shakespeare", "Abraham Lincoln", "Aristotle", "Alexander the Great", "Charles Darwin", "Albert Einstein", "Christopher Columbus", "Nikola Tesla" ],
+
+"-" : "------------Show Descriptions--------------------------------------------------------------------------------------------------------------------------------------",
+
+ "showDesc1" : ["#t1name#'s attempt to teach #c1name# the #skill# of #ability# using #item.a# goes #awry# when #c1name# #badEvent#"],
+ "showDesc2" : ["#t1name# encourages #c1name# and #c2name# to fuse together into #fusionDesc.a# '#fusionSyn#' (voiced by #celebrityName#). But #t1name#'s plan goes #awry# when #c1name# and #c2name# instead #togetherAction#."],
+"showDesc3" : ["#t1name# tries to master #ability# with #c1name# but accidentally #doesThing#. Only #c2name#'s #positiveQuality# can set things right."],
+"showDesc4" : ["#t1name# grows worried about #c1name#'s increasing #badQuality#. After #awkward.a# #argument# over #domesticEvent# #c1name# #badEvent#"],
+"showDesc5" : ["#c1name# and #c2name#'s #quiet# #weekday# #domesticEvent# is #interrupted# by a #terrified# #t1name#. #t1they.capitalize# begs them to help #t1them# #struggle#. #c1name#'s #item# proves key to their victory... but at what cost?"],
+"showDesc6" : ["Jamie asks #t1name# to help him produce and star in #play.a# about #historicalEvent#. Unfortunately the performance is cut short when they both must #struggle#!"],
+"showDesc7" : ["#t1name# needs a friend to #goodTogetherAction# with. #t1they.capitalize# recruits #c1name# but before they start...#epicEffect# and they must #struggle#!"],
+"showDesc8" : ["#c1name# introduces #t1name# to #c1their# new friend #feminineName# (voiced by #celebrityName#). #t1name# is suspicious she might be #suspiciousBackstory#...but those fears quickly dissipate after they #goodTogetherAction#."],
+
+"titleCard_showDesc" : ["#showDesc1#,#showDesc2#,#showDesc3#,#showDesc4#,#showDesc5#,#showDesc6#,#showDesc7#,#showDesc8#"],
+"titleCard_swordDesc" : ["#t1name# becomes determined to protect #c1name#. #t1they.capitalize# begs #c2name# to teach #t1them# how to fight with #titleword2.a#. But to #t1name#'s #chagrin#--while #fighting#--#c1name# #badEvent#"],
+
+"titleCard_showName1" : ["#quality#"],
+"titleCard_showName2" : ["#t1name#"],
+"swordShowTitle" : [
+"[titleword1: sworn][titleword2: sabre]",
+"[titleword1: bound][titleword2: buckler]",
+"[titleword1: affirmed][titleword2: ax]", 
+"[titleword1: driven][titleword2: dagger]",
+"[titleword1: forced][titleword2: flail]",
+"[titleword1: sworn][titleword2: shield]",
+"[titleword1: hastened][titleword2: hatchet]"
+],
+
+
+"-" : "------------Title Card Tweet Text Grammars--------------------------------------------------------------------------------------------------------------------------------------",
+
+"checkItOut":["Check it out", "Pretty cool", "Ha ha don't spread it around but", "Aw sweet", "Holy Toledo", "Oh my stars", "Oh man I could get in trouble but", "Blatant fan-service? Maybe..."],
+"foundIt": ["found this in the 'upcoming' server folder", "saw this laying on the conference table", "this was making the rounds", "intercepted this", "saw this in next month's press materials", "spied this while looking over Rebecca's shoulder"],
+"today": ["today", "at work", "while punching the clock", "this morning", "last night", "over the weekend", "on my lunch break"],
+"canon": ["Canon???", "Is this for real?!", "I can hear the fanfic writers screaming...", "That escalated quickly..."],
+"titleCard_tweetText" : ["#checkItOut#, #foundIt# #today#!", "","", "#canon#"],
+
+"-" : "--------------------------------------------------------------------------------------------------------------------------------------------------",
+"-" : "----------General Use Grammars (across all cards)----------------------------------------------------------------------------------",
+"-" : "--------------------------------------------------------------------------------------------------------------------------------------------------",
+
+"terrified" : ["terrified", "scared", "panicked", "frightened"],
+"quiet" : ["quiet", "calm", "uneventful"],
+"interrupted" : ["interrupted", "cut short"],
+"play" : ["tragedy", "play", "shadow puppet play", "improv show", "comedy"],
+
+"badQualAdj" : ["silly", "selfish", "foolish", "vain", "foolhardy", "ignorant", "arrogant", "insecure" ],
+"chagrin" : ["chagrin", "horror", "dismay"],
+"fighting" : ["fighting", "sparring", "battling"],
+
+"item" :["holographic clone", "cookie cat", "Laser Light Cannon", "Moon Goddess statue", "together breakfast", "cheeseburger backpack",  "wailing stone", "replicator wand", "jar of fire salt", "Crying Breakfast Friends sticker", "'slumber pal'", "bag of donuts", "friendship bracelet", "old photograph", "vintage record", "Camp Pining Hearts VHS", "copy of Water Witch", "copy of 'Space Train to the Cosmos'"],
+
+"awkward" : ["awkward", "emotional", "heated", "pitched", "irrational"], 
+"argument" : ["argument", "dispute", "fight", "disagreement", "altercation", "kerfuffle", "squabble", "feud"],
+"awry" : ["awry","amiss", "wrong", "askew"],
+
+"master" : ["master", "learn", "conquer", "gain insight into"],
+"skill" : ["art", "skill", "finer points", "subtleties"],
+"ability" : ["sword-fighting", "cooking", "fighting", "being true to yourself", "forgiveness", "ukelele", "fusion dancing", "fishing", "stand-up comedy", "shapeshifting", "karaoke", "friendship", "trust"],
+"bodyParts" : ["fingers", "toes", "nose", "eyelids", "ears", "'touch-stumps'","'gravity connectors'", "legs", "arms", "hair"],
+
+"positiveQuality" : ["bravery", "steadfastness", "courage", "fearlessness", "generosity", "sympathy", "protectiveness", "empathy", "happiness", "faithfulness", "optimism", "positivity", "wisdom"],
+"badQuality" : ["aloofness", "anger", "jealousy", "depression", "disorganization", "secretiveness", "aggression", "violent outbursts", "compulsive eating", "selfishness"],
+
+"animal" : ["aardvark", "alligator", "alpaca", "antelope", "ape", "armadillo", "baboon", "badger", "bat", "bear", "beaver", "bison", "boar", "buffalo", "bull", "camel", "canary", "capybara", "cat", "chameleon", "cheetah", "chimpanzee", "chinchilla", "chipmunk", "cougar", "cow", "coyote", "crocodile", "crow", "deer", "dingo", "dog", "donkey", "dromedary", "elephant", "elk", "ewe", "ferret", "finch", "fish", "fox", "frog", "gazelle", "gila monster", "giraffe", "gnu", "goat", "gopher", "gorilla", "grizzly bear", "ground hog", "guinea pig", "hamster", "hedgehog", "hippopotamus", "hog", "horse", "hyena", "ibex", "iguana", "impala", "jackal", "jaguar", "kangaroo", "koala", "lamb", "lemur", "leopard", "lion", "lizard", "llama", "lynx", "mandrill", "marmoset", "mink", "mole", "mongoose", "monkey", "moose", "mountain goat", "mouse", "mule", "muskrat", "mustang", "mynah bird", "newt", "ocelot", "opossum", "orangutan", "oryx", "otter", "ox", "panda", "panther", "parakeet", "parrot", "pig", "platypus", "polar bear", "porcupine", "porpoise", "prairie dog", "puma", "rabbit", "raccoon", "ram", "rat", "reindeer", "reptile", "rhinoceros", "salamander", "seal", "sheep", "shrew", "silver fox", "skunk", "sloth", "snake", "squirrel", "tapir", "tiger", "toad", "turtle", "walrus", "warthog", "weasel", "whale", "wildcat", "wolf", "wolverine", "wombat", "woodchuck", "yak", "zebra"],
+"weekday" : ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+
+"feminineName" : ["Ava", "Abelone", "Abigail", "Acacia", "Grace", "Bella", "Quinn", "Iris", "Talia", "Ayana", "Abbey", "Cassandra", "Charlotte", "Clara", "Fiona", "Gabriella", "Hazel", "Poppy", "Rana", "Willow"],
+
+"-" : "----------Casting Grammars----------------------------------------------------------------------------------",
+
+"setTitleChar": [
+"[t1name:Garnet][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Garnet][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Garnet][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Amethyst][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Amethyst][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Amethyst][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Steven][t1they:he][t1them:him][t1their:his][t1theirs:his]",
+"[t1name:Steven][t1they:he][t1them:him][t1their:his][t1theirs:his]",
+"[t1name:Steven][t1they:he][t1them:him][t1their:his][t1theirs:his]",
+"[t1name:Pearl][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Pearl][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Pearl][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Peridot][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Peridot][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Peridot][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Lapis][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Lapis][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Lapis][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Greg][t1they:he][t1them:him][t1their:his][t1theirs:his]",
+"[t1name:Greg][t1they:he][t1them:him][t1their:his][t1theirs:his]",
+"[t1name:Greg][t1they:he][t1them:him][t1their:his][t1theirs:his]",
+"[t1name:Connie][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Connie][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Connie][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Lion][t1they:he][t1them:him][t1their:his][t1theirs:his]",
+"[t1name:Lion][t1they:he][t1them:him][t1their:his][t1theirs:his]",
+"[t1name:Lars][t1they:he][t1them:him][t1their:his][t1theirs:his]",
+"[t1name:Sadie][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Onion][t1they:he][t1them:him][t1their:his][t1theirs:his]",
+"[t1name:Vidalia][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Rose][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Ruby][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Sapphire][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Jasper][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Opal][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Sugalite][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Sardonyx][t1they:she][t1them:her][t1their:her][t1theirs:hers]",
+"[t1name:Stevonnie][t1they:they][t1them:them][t1their:their][t1theirs:theirs]",
+"[t1name:Malachite][t1they:she][t1them:her][t1their:her][t1theirs:hers]"
+],
+"setChar1": [
+"[c1name:Garnet][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Amethyst][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Steven][c1they:he][c1them:him][c1their:his][c1theirs:his]",
+"[c1name:Pearl][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Peridot][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Greg][c1they:he][c1them:him][c1their:his][c1theirs:his]",
+"[c1name:Connie][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Lars][c1they:he][c1them:him][c1their:his][c1theirs:his]",
+"[c1name:Sadie][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Lion][c1they:he][c1them:him][c1their:his][c1theirs:his]",
+"[c1name:Sour Cream][c1they:he][c1them:him][c1their:his][c1theirs:his]",
+"[c1name:Onion][c1they:he][c1them:him][c1their:his][c1theirs:his]",
+"[c1name:Vidalia][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Mayor Dewey][c1they:he][c1them:him][c1their:his][c1theirs:his]",
+"[c1name:Rose][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Ruby][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Sapphire][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Lapis Lazuli][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Jasper][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Holo-Pearl][c1they:they][c1them:them][c1their:their][c1theirs:theirs]",
+"[c1name:Blue Diamond][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Yellow Diamond][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Opal][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Sugalite][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Sardonyx][c1they:she][c1them:her][c1their:her][c1theirs:hers]",
+"[c1name:Stevonnie][c1they:they][c1them:them][c1their:their][c1theirs:theirs]",
+"[c1name:Malachite][c1they:she][c1them:her][c1their:her][c1theirs:hers]"
+],
+"setChar2": [
+"[c2name:Garnet][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Amethyst][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Steven][c2they:he][c2them:him][c2their:his][c2theirs:his]",
+"[c2name:Pearl][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Peridot][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Greg][c2they:he][c2them:him][c2their:his][c2theirs:his]",
+"[c2name:Connie][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Lars][c2they:he][c2them:him][c2their:his][c2theirs:his]",
+"[c2name:Sadie][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Lion][c2they:he][c2them:him][c2their:his][c2theirs:his]",
+"[c2name:Sour Cream][c2they:he][c2them:him][c2their:his][c2theirs:his]",
+"[c2name:Onion][c2they:he][c2them:him][c2their:his][c2theirs:his]",
+"[c2name:Vidalia][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Mayor Dewey][c2they:he][c2them:him][c2their:his][c2theirs:his]",
+"[c2name:Rose][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Ruby][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Sapphire][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Lapis Lazuli][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Jasper][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Holo-Pearl][c2they:they][c2them:them][c2their:their][c2theirs:theirs]",
+"[c2name:Blue Diamond][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Yellow Diamond][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Opal][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Sugalite][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Sardonyx][c2they:she][c2them:her][c2their:her][c2theirs:hers]",
+"[c2name:Stevonnie][c2they:they][c2them:them][c2their:their][c2theirs:theirs]",
+"[c2name:Malachite][c2they:she][c2them:her][c2their:her][c2theirs:hers]"
+],
+
+"-" : "-----------Experimental Contextual Casters (not in use)-----------------------------------------------------------------------------------------------",
+
+"setGem": [
+"[C1_name: Garnet][C1_quality: serious][C1_badQuality: stubborn][C1_goodQuality: steadfast]"
+],
+
+"setHuman": [
+"[C1_name:Sadie][C1_quality: friendly][C1_badQuality: anti-social][C1_goodQuality: loyal]"
+],
+
+
+
+"-" : "-----------General Spawners------------------------------------------------------------------------------------------------",
+"-" : "-----------------------------------------------------------------------------------------------------------------------------------",
+
+"set_data" : [
+	"[tweetType: titleCard][tweetData: #titleCard_data#][tweetText: #titleCard_tweetText#][displayTitleCard:block][displayCookieCat:none]",
+	"[tweetType: titleCard][tweetData: #titleCard_data#][tweetText: #titleCard_tweetText#][displayTitleCard:block][displayCookieCat:none]",
+	"[tweetType: titleCard][tweetData: #titleCard_data#][tweetText: #titleCard_tweetText#][displayTitleCard:block][displayCookieCat:none]",
+	"[tweetType: titleCard][tweetData: #titleCard_data#][tweetText: #titleCard_tweetText#][displayTitleCard:block][displayCookieCat:none]",
+
+	"[tweetType: cookieCat][tweetData: #cookieCat_data#][tweetText: #cookieCat_tagline#][displayTitleCard:none][displayCookieCat:block]"
+],
+
+"origin" : "[#set_data#]#tweetText#{svg <?xml version='1.0' encoding='UTF-8' standalone='no'?><svg  xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"  version='1.1' width='1024px' height='512px' viewBox='0 0 1024 512' style='enable-background:new 0 0 1024 512;' id='svg2' xml:space='preserve'><image xlink:href='http://people.ucsc.edu/~jgarbe/steven-universe-bot/bgs/#bgPic#' x='0' y='0' height='512px' width='1024px'/><defs><style type='text/css'>@import url('http://people.ucsc.edu/~jgarbe/steven-universe-bot/css.css'); @import url(http://fonts.googleapis.com/css?family=Lilita+One);</style></defs><foreignObject  x='299' y='30' width='670' height='520'><p xmlns=\"http://www.w3.org/1999/xhtml\"><span style='display:#displayTitleCard#; text-align:right; color:rgba(#t-c1#, #t-c2#, #t-c3#, 1); margin: 0 !important; font-size:80px; font-family:\"Crewniverse\"; text-transform: uppercase; text-shadow: 4px 4px 0px rgba(255, 255, 255, 1);'>#myShowName1#</span><span style='display:#displayTitleCard#;text-align:right; color:rgba(#t-c1#, #t-c2#, #t-c3#, 1); margin: 0 !important; font-size:80px; font-family:\"Crewniverse\"; text-transform: uppercase; text-shadow: 4px 4px 0px rgba(255, 255, 255, 1); '>#myShowName2#</span><p style='font-size:20px; color:rgba(#d-c1#, #d-c2#, #d-c3#, 1); font-family:\"Lilita One\"; text-align:right; margin:60px 0px 0px 0px; position:relative; left:290px; width:390px; display: #displayTitleCard#'>#myShowDesc#</p><p style='font-size:20px; color:rgba(#t-c1#, #t-c2#, #t-c3#, 1); font-family:\"Lilita One\"; text-align:right; margin:60px 0px 0px 0px; position: relative; top: 40px; display: #displayCookieCat#'>#cookieCatLyrics#</p></p></foreignObject></svg>}"
+
+}
+
+
+
