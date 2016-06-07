@@ -4,24 +4,24 @@
     "[#setgametype#]#prefaces##publishers# has #announced# a brand new #games# game & this one's #article# #gametype#!",
     "[#setgametype#]#prefaces##publishers# has #announced# a brand new #games# game & this one's #article# #gametype#!",
     "[#setgametype#]#prefaces##publishers# has #announced# a brand new #games# game & this one's #article# #gametype#!",
-    "[#setgametype#]#prefaces##publishers# #announced# a new sequel to #gameprefixes##games# and yes, it's #article# #gametype#!",
-    "[#setgametype#]#prefaces##publishers# #announced# a new sequel to #gameprefixes##games# and yes, it's #article# #gametype#!",
-    "[#setgametype#]#prefaces##publishers# #announced# a new sequel to #gameprefixes##games# and yes, it's #article# #gametype#!",
-    "[#setgametype#]#prefaces##publishers# has invited us to a private play session for a #games# remake & it's #article# #gametype#!",
-    "[#setgametype#]#prefaces##publishers# has invited us to a private play session for a #games# remake & it's #article# #gametype#!",
-    "[#setgametype#]#prefaces##publishers# has invited us to a private play session for a #games# remake & it's #article# #gametype#!",
-    "[#setgametype#]#prefaces##publishers# set to announce a #games# remake, leaked footage shows us it's #article# #gametype#.",
-    "[#setgametype#]#prefaces##publishers# set to announce a #games# remake, leaked footage shows us it's #article# #gametype#.",
-    "[#setgametype#]#prefaces##publishers# set to announce a #games# remake, leaked footage shows us it's #article# #gametype#.",
-    "[#setgametype#]#prefaces#The #games# franchise is getting a reboot! Rumors say it'll be #article# #gametype#. Stay tuned!",
-    "[#setgametype#]#prefaces#The #games# franchise is getting a reboot! Details are sparse, but supposedly it's #article# #gametype#!",
-    "[#setgametype#]#prefaces#The #games# franchise is getting a reboot! Details are sparse, but supposedly it's #article# #gametype#!",
-    "[#setgametype#]Saw footage of a #games# remake from #publishers# & holy shit it's gonna be #article# #gametype#!",
-    "[#setgametype#]Saw footage of a #games# remake from #publishers# & holy shit it's gonna be #article# #gametype#!",
-    "[#setgametype#]#prefaces#Hearing about a #games# reboot coming from #publishers#, sources are saying it's #article# #gametype#.",
-    "[#setgametype#]#prefaces#Hearing about a #games# reboot coming from #publishers#, sources are saying it's #article# #gametype#.",
-    "[#setgametype#]Hearing rumours about a #games# reboot coming from #publishers#, sources are saying it's #article# #gametype#.",
-    "[#setgametype#]Hearing rumours about a #games# reboot coming from #publishers#, sources are saying it's #article# #gametype#.",
+    "[#setgametype#]#prefaces##publishers# #announced# a new #sequel# to #gameprefixes##games# and yes, it's #article# #gametype#!",
+    "[#setgametype#]#prefaces##publishers# #announced# a new #sequel# to #gameprefixes##games# and yes, it's #article# #gametype#!",
+    "[#setgametype#]#prefaces##publishers# #announced# a new #sequel# to #gameprefixes##games# and yes, it's #article# #gametype#!",
+    "[#setgametype#]#prefaces##publishers# has invited us to a private play session for a #games# #sequel# & it's #article# #gametype#!",
+    "[#setgametype#]#prefaces##publishers# has invited us to a private play session for a #games# #sequel# & it's #article# #gametype#!",
+    "[#setgametype#]#prefaces##publishers# has invited us to a private play session for a #games# #sequel# & it's #article# #gametype#!",
+    "[#setgametype#]#prefaces##publishers# set to announce a #games# #sequel#, leaked footage shows us it's #article# #gametype#.",
+    "[#setgametype#]#prefaces##publishers# set to announce a #games# #sequel#, leaked footage shows us it's #article# #gametype#.",
+    "[#setgametype#]#prefaces##publishers# set to announce a #games# #sequel#, leaked footage shows us it's #article# #gametype#.",
+    "[#setgametype#]#prefaces#The #games# franchise is getting a #sequel#! Rumors say it'll be #article# #gametype#. Stay tuned!",
+    "[#setgametype#]#prefaces#The #games# franchise is getting a #sequel#! Details are sparse, but supposedly it's #article# #gametype#!",
+    "[#setgametype#]#prefaces#The #games# franchise is getting a #sequel#! Details are sparse, but supposedly it's #article# #gametype#!",
+    "[#setgametype#]Saw #footage# of a #games# #sequel# from #publishers# & holy shit it's gonna be #article# #gametype#!",
+    "[#setgametype#]Saw #footage# of a #games# #sequel# from #publishers# & holy shit it's gonna be #article# #gametype#!",
+    "[#setgametype#]#prefaces#Hearing about a #games# #sequel# coming from #publishers#, #sources# are #saying# it's #article# #gametype#.",
+    "[#setgametype#]#prefaces#Hearing about a #games# #sequel# coming from #publishers#, #sources# are #saying# it's #article# #gametype#.",
+    "[#setgametype#]Hearing rumours about a #games# #sequel# coming from #publishers#, #sources# are #saying# it's #article# #gametype#.",
+    "[#setgametype#]Hearing rumours about a #games# #sequel# coming from #publishers#, #sources# are #saying# it's #article# #gametype#.",
     "[#setgametype#][#setcolours#]#prefaces##gameprefixes##games# is coming to modern consoles & it's #article# #gametype#. Available soon in #colour1# & #colour2#!",
     "[#setgametype#][#setcolours#]#prefaces##gameprefixes##games# is coming to modern consoles & it's #article# #gametype#. Available soon in #colour1# & #colour2#!",
     "[#setgametype#]#capitalgametype# fans, get hype! A brand new #games# game is coming and it's #article# #gametype# this time!!!",
@@ -32,14 +32,17 @@
     "[#setgametype#]#capitalgametype# fans: #publishers# has your back. They've #announced# a new #games# game and it's gonna be #article# #gametype#!!!",
     "#different#"
   ],
+
   "different": [
     "#prefaces#Yet another huge pack of lies from Peter Molyneux.",
     "#prefaces#Everything is as awkward and embarrassing as it was last year.",
     "#prefaces#No remake will ever fill the void in your heart left by #games#."
   ],
+
   "setcolours": [
     "[#setcolour1#][#setcolour2#]"
   ],
+
   "setcolour1": [
     "[colour1:Red]",
     "[colour1:Blue]",
@@ -64,6 +67,7 @@
     "[colour1:Omega Ruby]",
     "[colour1:Alpha Sapphire]"
   ],
+
   "setcolour2": [
     "[colour2:Red]",
     "[colour2:Blue]",
@@ -88,6 +92,7 @@
     "[colour2:Omega Ruby]",
     "[colour2:Alpha Sapphire]"
   ],
+
   "-": "NOTE: This is not currently referenced anywhere yet.",
   "platforms": [
     "iOS",
@@ -108,12 +113,14 @@
     "Atari Jaguar",
     "Ouya"
   ],
+
   "-": "NOTE: This is not currently referenced anywhere yet.",
   "features": [
     "exclusive costumes",
     "play-to-win mechanics",
     "co-op multiplayer"
   ],
+
   "-": "NOTE: This is not currently referenced anywhere yet.",
   "editions": [
     "as DLC",
@@ -121,15 +128,17 @@
     "only on PS4",
     "only on Xbox One"
   ],
-  "announced": [
-    "announced",
-    "announced",
-    "announced",
-    "revealed",
-    "revealed",
-    "revealed",
-    "green-lit"
-  ],
+
+  "-" : "--------------------------------------------------------------------------------------------------------------------------------------------------",
+  "-" : "----------General Use Grammars (across all cards)----------------------------------------------------------------------------------",
+  "-" : "--------------------------------------------------------------------------------------------------------------------------------------------------",
+  
+  "announced": ["announced", "announced", "announced", "revealed", "revealed", "revealed", "green-lit"],
+  "sequel": [ "remake", "remake", "remake", "remake", "reboot", "reboot", "reboot", "reboot", "sequel", "sequel", "prequel", "prequel","spin-off"],
+  "footage": ["footage", "screenshots"],
+  "sources": ["sources", "rumours", "reports"],
+  "saying": ["saying", "claiming", "telling us"],
+
   "prefaces": [
     "",
     "",
@@ -147,6 +156,7 @@
     "TRAILER REVEAL: ",
     "UNVEILED: "
   ],
+
   "publishers": [
     "Activision",
     "Atlus",
@@ -172,6 +182,7 @@
     "Wisdom Tree",
     "Zen Studios"
   ],
+
   "gameprefixes": [
     "",
     "",
@@ -201,6 +212,7 @@
     " Tom's Clancy's ",
     " American McGee's "
   ],
+
   "games": [
     "Afro Samurai",
     "Alone in the Dark",
@@ -288,6 +300,7 @@
     "Legend of Zelda",
     "Zombies Ate My Neighbours"
   ],
+
     "setgametype": [
     "[gametype:MOBA][capitalgametype:MOBA][article:yet another]",
     "[gametype:4-player couch co-op][capitalgametype:4-Player couch co-op][article:a]",
