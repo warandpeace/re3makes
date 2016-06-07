@@ -22,8 +22,8 @@
     "#prefaces#: Hearing about a #games# reboot coming from #publishers#, sources are saying it's #gametype#.",
     "#prefaces#: Hearing rumours about a #games# reboot coming from #publishers#, sources are saying it's #gametype#.",
     "#prefaces#: Hearing rumours about a #games# reboot coming from #publishers#, sources are saying it's #gametype#.",
-    "[#setcolours#]#prefaces#: #games# is coming to modern consoles & it's #gametype#! Available in #colour1# & #colour2#",
-    "[#setcolours#]#prefaces#: #games# is coming to modern consoles & it's #gametype#! Available in #colour1# & #colour2#",
+    "[#setcolours#]#prefaces#: #games# is coming to modern consoles & it's #gametype#. Available soon in #colour1# & #colour2#!",
+    "[#setcolours#]#prefaces#: #games# is coming to modern consoles & it's #gametype#. Available soon in #colour1# & #colour2#!",
     "#different#"
   ],
   "different": [
@@ -163,6 +163,7 @@
     "James Pond",
     "Jazz Jackrabbit",
     "Jet Grind Radio",
+    "Lee Carvallo's Putting Challenge",
     "Legacy of Kain",
     "Leisure Suit Larry",
     "Lost Vikings",
