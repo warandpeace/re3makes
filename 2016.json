@@ -1,12 +1,12 @@
 {
   "origin": [
-    "[#setgametype#]#prefaces##publishers# has announced a brand new #games# game & this one's #article# #gametype#!",
-    "[#setgametype#]#prefaces##publishers# has announced a brand new #games# game & this one's #article# #gametype#!",
-    "[#setgametype#]#prefaces##publishers# has announced a brand new #games# game & this one's #article# #gametype#!",
-    "[#setgametype#]#prefaces##publishers# has announced a brand new #games# game & this one's #article# #gametype#!",
-    "[#setgametype#]#prefaces##publishers# announced a new sequel to #gameprefixes##games# and yes, it's #article# #gametype#!",
-    "[#setgametype#]#prefaces##publishers# announced a new sequel to #gameprefixes##games# and yes, it's #article# #gametype#!",
-    "[#setgametype#]#prefaces##publishers# announced a new sequel to #gameprefixes##games# and yes, it's #article# #gametype#!",
+    "[#setgametype#]#prefaces##publishers# has #announced# a brand new #games# game & this one's #article# #gametype#!",
+    "[#setgametype#]#prefaces##publishers# has #announced# a brand new #games# game & this one's #article# #gametype#!",
+    "[#setgametype#]#prefaces##publishers# has #announced# a brand new #games# game & this one's #article# #gametype#!",
+    "[#setgametype#]#prefaces##publishers# has #announced# a brand new #games# game & this one's #article# #gametype#!",
+    "[#setgametype#]#prefaces##publishers# #announced# a new sequel to #gameprefixes##games# and yes, it's #article# #gametype#!",
+    "[#setgametype#]#prefaces##publishers# #announced# a new sequel to #gameprefixes##games# and yes, it's #article# #gametype#!",
+    "[#setgametype#]#prefaces##publishers# #announced# a new sequel to #gameprefixes##games# and yes, it's #article# #gametype#!",
     "[#setgametype#]#prefaces##publishers# has invited us to a private play session for a #games# remake & it's #article# #gametype#!",
     "[#setgametype#]#prefaces##publishers# has invited us to a private play session for a #games# remake & it's #article# #gametype#!",
     "[#setgametype#]#prefaces##publishers# has invited us to a private play session for a #games# remake & it's #article# #gametype#!",
@@ -27,9 +27,9 @@
     "[#setgametype#]#capitalgametype# fans, get hype! A brand new #games# game is coming and it's #article# #gametype# this time!!!",
     "[#setgametype#]#capitalgametype# fans, get hype! A brand new #games# game is coming and it's #article# #gametype# this time!!!",
     "[#setgametype#]#capitalgametype# fans, get hype! A brand new #games# game is coming and it's #article# #gametype# this time!!!",
-    "[#setgametype#]#capitalgametype# fans: #publishers# has your back. They've green-lit a new #games# game and it's gonna be #article# #gametype#!!!",
-    "[#setgametype#]#capitalgametype# fans: #publishers# has your back. They've green-lit a new #games# game and it's gonna be #article# #gametype#!!!",
-    "[#setgametype#]#capitalgametype# fans: #publishers# has your back. They've green-lit a new #games# game and it's gonna be #article# #gametype#!!!",
+    "[#setgametype#]#capitalgametype# fans: #publishers# has your back. They've #announced# a new #games# game and it's gonna be #article# #gametype#!!!",
+    "[#setgametype#]#capitalgametype# fans: #publishers# has your back. They've #announced# a new #games# game and it's gonna be #article# #gametype#!!!",
+    "[#setgametype#]#capitalgametype# fans: #publishers# has your back. They've #announced# a new #games# game and it's gonna be #article# #gametype#!!!",
     "#different#"
   ],
   "different": [
@@ -120,6 +120,15 @@
     "in the Collector's Edition",
     "only on PS4",
     "only on Xbox One"
+  ],
+  "announced": [
+    "announced",
+    "announced",
+    "announced",
+    "revealed",
+    "revealed",
+    "revealed",
+    "green-lit"
   ],
   "prefaces": [
     "",
