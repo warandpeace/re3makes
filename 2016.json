@@ -22,8 +22,8 @@
     "#prefaces#: Hearing about a #games# reboot coming from #publishers#, sources are saying it's #gametype#.",
     "#prefaces#: Hearing rumours about a #games# reboot coming from #publishers#, sources are saying it's #gametype#.",
     "#prefaces#: Hearing rumours about a #games# reboot coming from #publishers#, sources are saying it's #gametype#.",
-    "[#setcolours#]#prefaces#: #games# is coming to modern consoles & it's #gametype#! Available in Ruby Red & Sapphire Blue",
-    "[#setcolours#]#prefaces#: #games# is coming to modern consoles & it's #gametype#! Available in Ruby Red & Sapphire Blue",
+    "[#setcolours#]#prefaces#: #games# is coming to modern consoles & it's #gametype#! Available in #colour1# & #colour2#",
+    "[#setcolours#]#prefaces#: #games# is coming to modern consoles & it's #gametype#! Available in #colour1# & #colour2#",
     "#different#"
   ],
   "different": [
@@ -47,8 +47,8 @@
     "[colour1:Silver]",
     "[colour1:Crystal]",
     "[colour1:Ruby]",
-    "[colour1:Sapphire]"
-    "[colour1:Emerald]"
+    "[colour1:Sapphire]",
+    "[colour1:Emerald]",
     "[colour1:Diamond]",
     "[colour1:Pearl]",
     "[colour1:Platinum]",
@@ -56,10 +56,10 @@
     "[colour1:Y]",
     "[colour1:Sun]",
     "[colour1:Moon]",
-    "[colour1:FireRed]",
-    "[colour1:LeafGreen]",
-    "[colour1:HeartGold]",
-    "[colour1:SoulSilver]",
+    "[colour1:Fire Red]",
+    "[colour1:Leaf Green]",
+    "[colour1:Heart Gold]",
+    "[colour1:Soul Silver]",
     "[colour1:Omega Ruby]",
     "[colour1:Alpha Sapphire]"
   ],
@@ -71,8 +71,8 @@
     "[colour2:Silver]",
     "[colour2:Crystal]",
     "[colour2:Ruby]",
-    "[colour2:Sapphire]"
-    "[colour2:Emerald]"
+    "[colour2:Sapphire]",
+    "[colour2:Emerald]",
     "[colour2:Diamond]",
     "[colour2:Pearl]",
     "[colour2:Platinum]",
@@ -80,10 +80,10 @@
     "[colour2:Y]",
     "[colour2:Sun]",
     "[colour2:Moon]",
-    "[colour2:FireRed]",
-    "[colour2:LeafGreen]",
-    "[colour2:HeartGold]",
-    "[colour2:SoulSilver]",
+    "[colour2:Fire Red]",
+    "[colour2:Leaf Green]",
+    "[colour2:Heart Gold]",
+    "[colour2:Soul Silver]",
     "[colour2:Omega Ruby]",
     "[colour2:Alpha Sapphire]"
   ],
