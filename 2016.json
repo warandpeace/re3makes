@@ -108,6 +108,19 @@
     "Atari Jaguar",
     "Ouya"
   ],
+  "-": "NOTE: This is not currently referenced anywhere yet.",
+  "features": [
+    "exclusive costumes",
+    "play-to-win mechanics",
+    "co-op multiplayer"
+  ],
+  "-": "NOTE: This is not currently referenced anywhere yet.",
+  "editions": [
+    "as DLC",
+    "in the Collector's Edition",
+    "only on PS4",
+    "only on Xbox One"
+  ],
   "prefaces": [
     "",
     "",
