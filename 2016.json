@@ -4,8 +4,6 @@
     "[#setgametype#]#prefaces##publishers# has #announced# a brand new #games# game & this one's #article# #gametype#!",
     "[#setgametype#]#prefaces##publishers# has #announced# a brand new #games# game & this one's #article# #gametype#!",
     "[#setgametype#]#prefaces##publishers# has #announced# a brand new #games# game & this one's #article# #gametype#!",
-    "[#setgametype#]#prefaces##publishers# has #announced# a brand new #games# game & this one's #article# #gametype#!",
-    "[#setgametype#]#prefaces##publishers# #announced# a new #sequel# for #gameprefixes##games# and yes, it's #article# #gametype#!",
     "[#setgametype#]#prefaces##publishers# #announced# a new #sequel# for #gameprefixes##games# and yes, it's #article# #gametype#!",
     "[#setgametype#]#prefaces##publishers# #announced# a new #sequel# for #gameprefixes##games# and yes, it's #article# #gametype#!",
     "[#setgametype#]#prefaces##publishers# #announced# a new #sequel# for #gameprefixes##games# and yes, it's #article# #gametype#!",
@@ -45,8 +43,8 @@
     "[#setgametype#][#setcolours#]#prefaces##gameprefixes##games# is coming to modern consoles & it's #article# #gametype#. Available soon in #colour1# & #colour2#!",
     "[#setgametype#]OH SHIT! I just saw a new #games# game & I can't believe I'm fucking typing this, but it's a spiritual successor to #games#!",
     "[#setgametype#]OH SHIT! I just saw a new #games# game & I can't believe I'm fucking typing this, but it's a spiritual successor to #games#!",
-    "[#setgametype#]OH SHIT! I just saw a new #games# game & I'm losing my fucking mind!!! It's a spiritual successor to #games#!",
-    "[#setgametype#]OH SHIT! I just saw a new #games# game & I'm losing my fucking mind!!! It's a spiritual successor to #games#!",
+    "[#setgametype#]OH SHIT! I just saw a new #games# game & I'm losing my #cursing#mind!!! It's a spiritual successor to #games#!",
+    "[#setgametype#]OH SHIT! I just saw a new #games# game & I'm losing my #cursing#mind!!! It's a spiritual successor to #games#!",
     "#different#"
   ],
 
@@ -116,6 +114,7 @@
     "Android",
     "Windows 3.1",
     "Windows ME",
+    "Windows NT 4.0 and above",
     "Amiga",
     "CentOS 6",
     "Playstation 4",
@@ -134,8 +133,9 @@
   "-": "NOTE: This is not currently referenced anywhere yet.",
   "features": [
     "exclusive costumes",
-    "play-to-win mechanics",
-    "co-op multiplayer"
+    "pay-to-win mechanics",
+    "co-op multiplayer",
+    "too many fucking microtransactions"
   ],
 
   "-": "NOTE: This is not currently referenced anywhere yet.",
@@ -155,6 +155,16 @@
   "footage": ["footage", "screenshots"],
   "sources": ["sources", "rumours", "reports"],
   "saying": ["saying", "claiming", "telling us"],
+  "cursing": ["fucking ", "goddamn ", "god-damned ", ""],
+  "prefacecurses": ["OH SHIT", "Oh shiiiit", "Fuuuuck", "OH FUCK", "oh! OH OH!", "WHAT THE FUCK", "Oh shit OH SHIT", ""],
+
+  "setmanchild": [
+    "[capitalgametype:Zack Snyder]",
+    "[capitalgametype:Frank Miller]",
+    "[capitalgametype:American McGee]",
+    "[capitalgametype:From Software]",
+    "[capitalgametype:Todd McFarlane]"
+  ],
 
   "prefaces": [
     "",
@@ -351,7 +361,7 @@
     "[gametype:drinking game][capitalgametype:Drinking][article:a]",
     "[gametype:crying game][capitalgametype:Crying][article:a]",
     "[gametype:heartbreaking][capitalgametype:Tragedy][article:just fucking]",
-    "[gametype:beer pong simulator][capitalgametype:beer pong][article:a]",
+    "[gametype:beer pong simulator][capitalgametype:Beer pong][article:a]",
     "[gametype:classic text adventure][capitalgametype:Text adventure][article:a]",
     "[gametype:Tiger handheld][capitalgametype:Tiger handheld][article:a]",
     "[gametype:walking simulator][capitalgametype:Walking simulator][article:a]",
@@ -366,7 +376,7 @@
     "[gametype:pen & paper RPG][capitalgametype:Pen & paper RPG][article:a]",
     "[gametype:multi-layered board game][capitalgametype:Board game][article:a]",
     "[gametype:puzzle platformer][capitalgametype:Puzzle platformer][article:a]",
-    "[gametype:NES de-make by @dustmop][capitalgametype:NEW de-make][article:an]",
+    "[gametype:NES de-make by @dustmop][capitalgametype:De-Make][article:an]",
     "[gametype:second-person shooter][capitalgametype:Second-Person shooter][article:a]",
     "[gametype:resource management sim][capitalgametype:Resource management][article:a]",
     "[gametype:CAPITALIST GARBAGE][capitalgametype:Communist][article:MORE]",
@@ -376,6 +386,8 @@
     "[gametype:turn-based FPS][capitalgametype:Turn-based FPS][article:a]",
     "[gametype:Multiplayer Online Baking Arena][capitalgametype:MOBA][article:a]",
     "[gametype:mullet hell shooter][capitalgametype:Mullet hell][article:a]",
-    "[gametype:rap beef simulator][capitalgametype:Rap beef simulator][article:a]"
+    "[gametype:rap beef simulator][capitalgametype:Rap beef simulator][article:a]",
+    "[gametype:darker & grittier][#setmanchild#][article:even]",
+    "[gametype:darker & grittier][#setmanchild#][article:even]"
   ]
 }
