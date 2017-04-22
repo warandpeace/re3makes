@@ -1,6 +1,10 @@
 {
   "origin": [
-    "[#setgametype#]#prefaces##publishers# has #announced# a brand new #games# game & this one's #article# #gametype#! {svg <?xml version='1.0' encoding='UTF-8' standalone='no'?><svg  xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"  version='1.1' width='1024px' height='562px' viewBox='0 0 1024 562' style='enable-background:new 0 0 1024 562;' id='svg2' xml:space='preserve'><image xlink:href='http://wtfgamejam.com/re3makes/assets/#publishers#-background.png' x='0' y='0' height='562px' width='1024px'/><image xlink:href='http://wtfgamejam.com/re3makes/assets/#publishers#-#games#.png' x='0' y='0' height='562px' width='1024px'/></svg>}"
+    "[#setgametype#]#prefaces##publishers# has #announced# a brand new #games# game & this one's #article# #gametype#! {svg #image#}"
+  ],
+
+  "image": [
+    "<?xml version='1.0' encoding='UTF-8' standalone='no'?><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version='1.1' width='1024px' height='562px' viewBox='0 0 1024 562' style='enable-background:new 0 0 1024 562;' id='svg2' xml:space='preserve'><image xlink:href='http://wtfgamejam.com/re3makes/assets/#publishers#-background.png' x='0' y='0' height='562px' width='1024px'/><image xlink:href='http://wtfgamejam.com/re3makes/assets/#publishers#-#games#.png' x='0' y='0' height='562px' width='1024px'/></svg>"
   ],
 
   "different": [
