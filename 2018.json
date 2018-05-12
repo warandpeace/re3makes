@@ -48,7 +48,7 @@
   ],
 
   "image": [
-    "<?xml version='1.0' encoding='UTF-8' standalone='no'?><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version='1.1' width='1024px' height='562px' viewBox='0 0 1024 562' style='enable-background:new 0 0 1024 562;' id='svg2' xml:space='preserve'><image xlink:href='http://wtfgamejam.com/re3makes/assets/#publishers#-background.png' x='0' y='0' height='562px' width='1024px'/><image xlink:href='http://wtfgamejam.com/re3makes/assets/#publishers#-#gameFile#.png' x='1' y='-34' height='630px' width='1024px'/></svg>"
+    "<?xml version='1.0' encoding='UTF-8' standalone='no'?><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version='1.1' width='1024px' height='562px' viewBox='0 0 1024 562' style='enable-background:new 0 0 1024 562;' id='svg2' xml:space='preserve'><image xlink:href='http://wtfgamejam.com/re3makes/assets/Background-#publishers#.png' x='0' y='0' height='562px' width='1024px'/><image xlink:href='http://wtfgamejam.com/re3makes/assets/#publishers#-#gameFile#.png' x='1' y='-34' height='630px' width='1024px'/></svg>"
   ],
 
   "different": [
@@ -319,7 +319,10 @@
     "[gametype:Multiplayer Online Baking Arena][capitalgametype:MOBA][article:a]",
     "[gametype:mullet hell shooter][capitalgametype:Mullet hell][article:a]",
     "[gametype:rap beef simulator][capitalgametype:Rap beef simulator][article:a]",
-    "[gametype:darker & grittier][#setmanchild#][article:even]",
-    "[gametype:darker & grittier][#setmanchild#][article:even]"
+    "[gametype:darker & grittier than ever][#setmanchild#][article:even]",
+    "[gametype:darker & grittier than ever][#setmanchild#][article:even]",
+    "[gametype:battle royale game][capitalgametype:Battle royale game][article:yet another]",
+    "[gametype:battle royale game][capitalgametype:Battle royale game][article:just another]",
+    "[gametype:battle royale game][capitalgametype:Battle royale game][article:another]"
   ]
 }
