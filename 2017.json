@@ -243,20 +243,6 @@
   ],
 
   "games": [
-    "Antichamber",
-    "Banjo-Kazooie",
-    "Battletoads",
-    "Bible Adventures",
-    "Blast Corps",
-    "Blinx: The Time Sweeper",
-    "Boogerman",
-    "Bonestorm",
-    "Bonk's Adventure",
-    "Braid",
-    "Brave Fencer Musashi",
-    "Bubble Bobble",
-    "Buck Bumble",
-    "Bug!",
     "Captain Novolin",
     "Cart Life",
     "Cho Aniki",
@@ -290,6 +276,8 @@
     "Jazz Jackrabbit",
     "Karnov",
     "Keith Courage in Alpha Zones",
+    "King's Quest",
+    "Leather Goddesses of Phobos",
     "Lee Carvallo's Putting Challenge",
     "Legacy of Kain",
     "Legend of Zelda",
@@ -324,6 +312,7 @@
     "Sneak King",
     "Sonic the Hedgehog",
     "Space Demons",
+    "Space Quest",
     "Splatterhouse",
     "SubSpace",
     "Super Baseball 2020",
@@ -343,7 +332,8 @@
     "Willy Beamish",
     "Yo! Noid",
     "Zero The Kamikaze Squirrel",
-    "Zombies Ate My Neighbours"
+    "Zombies Ate My Neighbours",
+    "Zork"
   ],
 
     "setgametype": [
